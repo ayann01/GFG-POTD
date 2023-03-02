@@ -1,3 +1,5 @@
+//User function for Java 1.8
+
 class Solution{
 	int minCost(int [][] costs) {
 		//Write your code here
